@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_cut"
+        android:title="@string/menu_cut"
+        android:icon="@drawable/ic_content_cut_black_24dp"
+        />
+    <item
+        android:id="@+id/action_copy"
+        android:title="@string/menu_copy"
+        android:icon="@drawable/ic_content_copy_black_24dp"
+        />
+    <item
+        android:id="@+id/action_paste"
+        android:title="@string/menu_paste"
+        android:icon="@drawable/ic_content_paste_black_24dp"
+        />
+    <item
+        android:id="@+id/action_new"
+        android:title="@string/menu_new"
+        android:icon="@drawable/ic_create_new_folder_black_24dp"
+        />
+</menu>
